@@ -1,0 +1,4 @@
+#include "resource.h"
+
+// Icons
+IDI_ICO       ICON         "data\\icon\\icon.ico"
